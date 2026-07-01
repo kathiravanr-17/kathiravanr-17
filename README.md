@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=L%20S%20HARI%20PRASAD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%20KATHIRAVANR%20-17&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%201x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
 
 
 
@@ -60,18 +60,18 @@
 
 
 ### 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lshariprasad&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kathiravanr-17&theme=github_dark" width="80%" />
 
 <table width="95%">
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lshariprasad&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kathiravanr-17&theme=github_dark" width="80%" />
 </td>
 </table>
 
 <table width="95%">
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lshariprasad&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kathiravanr-17&theme=github_dark" width="80%" />
 </td>
 </tr>
 </table>
@@ -88,19 +88,20 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lshariprasad&color=FFD700&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=kathiravanr-17&color=FFD700&style=for-the-badge&label=Profile+Views" />
 </p>
 </div>
 
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lshariprasad&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kathiravanr-17&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lshariprasad&theme=highcontrast&hide_border=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kathiravanr-17&theme=highcontrast&hide_border=true" width="90%"/>
 </p>
 
+<!--
 ### 📜 LeetCode
 - 🔗 [View My LeetCode Profile](https://leetcode.com/u/ls_hariprasad/)
 - 💻 Languages Used: Python
@@ -111,6 +112,7 @@
 
 <img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
+-->
 
 ### 🧠 Core Principles
 - 🔁 Consistency over perfection  
@@ -129,7 +131,7 @@
 <!-- Animated Footer -->
 
 <p style="text-align:center; font-size:18px; font-style:italic;">
-🧘 “Every sleepless night is an investment in a future others won’t reach.” — Dev
+🧘 "The best way to predict the future is to invent it." — kathiravanr
 </p>
 
 
