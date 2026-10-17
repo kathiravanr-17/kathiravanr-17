@@ -1,29 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090F,45:4F46E5,100:06B6D4&text=KATHIRAVAN%20R&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20IoT%20%7C%20Embedded%20Systems&descSize=18&descAlignY=58" width="100%" alt="Kathiravan R - Electrical Engineering, IoT, Embedded Systems"/>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/hero.svg" width="100%" alt="Kathiravan R - Electrical Engineering, IoT, Embedded Systems"/>
 
-<a href="https://github.com/kathiravanr-17">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=Engineering+Ideas+Into+Intelligent+Solutions;B.E.+EEE+%40+SIMATS+%7C+ESP32+%7C+IoT;1st+Prize+%E2%80%93+Idea+Forge+2K26+IoT+Hardware+Showcase" alt="Engineering Ideas Into Intelligent Solutions"/>
-</a>
+<a href="https://github.com/kathiravanr-17"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=Engineering+Ideas+Into+Intelligent+Solutions;ESP32+%7C+IoT+%7C+Embedded+%7C+Motor+Control;Open+to+Internships+and+Entry-Level+Roles" alt="Engineering Ideas Into Intelligent Solutions"/></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://kathiravan-r-17.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/kathiravanr-17?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/kathiravanr-17/kathiravanr-17/blob/main/Kathiravan_R_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-0891B2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 <a href="https://github.com/kathiravanr-17?tab=followers"><img src="https://img.shields.io/github/followers/kathiravanr-17?style=for-the-badge&logo=github&label=Followers&color=4F46E5" alt="GitHub followers"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏆_1st_Prize-Idea_Forge_2K26_·_IoT_Hardware_Showcase-7C3AED?style=flat-square&labelColor=09090F" alt="1st Prize, Idea Forge 2K26 IoT Hardware Showcase"/>
-<img src="https://img.shields.io/badge/CGPA-8.66_/_10-0891B2?style=flat-square&labelColor=09090F" alt="CGPA 8.66 out of 10"/>
-<img src="https://img.shields.io/badge/Chennai-India-4F46E5?style=flat-square&labelColor=09090F&logo=googlemaps&logoColor=white" alt="Chennai, India"/>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/open-to-work.svg" width="100%" alt="Open to work: internships and entry-level roles"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/highlights.svg" width="100%" alt="6 featured projects, 3 internships, 9 certifications and trainings, 1st prize at Idea Forge 2K26, CGPA 8.66"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4F46E5,06B6D4&height=2" width="100%" alt=""/>
-
-<h2 align="center">⚡ About Me</h2>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/t-about.svg" width="100%" alt="About me"/>
 
 ```python
 class Engineer:
@@ -35,13 +33,15 @@ class Engineer:
     goal      = "Build practical technology with real-world impact"
 ```
 
-I'm an EEE student who sits between **hardware and software**: I design circuits, wire up sensors, and write the firmware and dashboards that make them smart. My work spans ESP32-based monitoring systems, motor and energy applications, and MATLAB/Simulink power-system simulation, backed by internships in manufacturing, process engineering and industrial maintenance.
+I'm an EEE student who sits between **hardware and software**: I design circuits, wire up sensors, and write the firmware and dashboards that make them smart. My work spans ESP32 monitoring systems, motor and energy applications, and MATLAB/Simulink power-system simulation, backed by internships in manufacturing, process engineering and industrial maintenance.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4F46E5,06B6D4&height=2" width="100%" alt=""/>
-
-<h2 align="center">🛠️ Technical Skills</h2>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/t-skills.svg" width="100%" alt="Technical skills"/>
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/ticker.svg" width="100%" alt="Skills ticker"/>
+
+<br/>
 
 | | |
 |:--|:--|
@@ -54,100 +54,20 @@ I'm an EEE student who sits between **hardware and software**: I design circuits
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4F46E5,06B6D4&height=2" width="100%" alt=""/>
-
-<h2 align="center">🚀 Featured Projects</h2>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/t-projects.svg" width="100%" alt="Featured projects"/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ⚡ Smart Energy Monitoring Platform
-`ESP32` `Voltage/Current Sensors` `IoT`
-
-Real-time monitoring of voltage, current, power, energy and estimated electricity cost.
-
-- Live electrical parameter measurement
-- Energy usage and cost estimation
-- LCD and IoT dashboard integration
-
-[**View repository →**](https://github.com/kathiravanr-17/REPO-NAME)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AegisClean-X
-`ESP32` `Robotics` `Automation`
-
-A hybrid-powered industrial cleaning and surveillance robot concept.
-
-- Four-wheel drive chassis
-- Rotating brush and water-spraying mechanism
-- Wireless control and obstacle detection
-
-[**View repository →**](https://github.com/kathiravanr-17/REPO-NAME)
-
-</td>
+<td width="50%"><a href="https://github.com/kathiravanr-17/REPO-NAME"><img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/project-01.svg" width="100%" alt="Smart Energy Monitoring Platform"/></a></td>
+<td width="50%"><a href="https://github.com/kathiravanr-17/REPO-NAME"><img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/project-02.svg" width="100%" alt="AegisClean-X"/></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ Smart Gas Turbine Plant Safety Monitoring
-`ESP32` `Gas · Flame · Temp/Humidity` `Blynk`
-
-A multi-sensor system for detecting gas leakage, fire and environmental changes.
-
-- Gas, flame, temperature and humidity sensing
-- Local alarm and visual alerts
-- Remote IoT monitoring dashboard
-
-[**View repository →**](https://github.com/kathiravanr-17/REPO-NAME)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Motor Condition Monitoring & Thermal Protection
-`ESP32` `Motor Control` `IoT`
-
-Monitors the electrical and thermal condition of a motor with protective alerts.
-
-- Voltage and current measurement
-- Temperature and RPM monitoring
-- LCD display and protective alerts
-
-[**View repository →**](https://github.com/kathiravanr-17/REPO-NAME)
-
-</td>
+<td width="50%"><a href="https://github.com/kathiravanr-17/REPO-NAME"><img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/project-03.svg" width="100%" alt="Smart Gas Turbine Plant Safety Monitoring"/></a></td>
+<td width="50%"><a href="https://github.com/kathiravanr-17/REPO-NAME"><img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/project-04.svg" width="100%" alt="Motor Condition Monitoring and Thermal Protection"/></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🪑 Smart Posture Monitor
-`ESP32` `MPU6050` `OLED`
-
-A posture-monitoring concept that gives feedback when slouching is detected.
-
-- Sensor-based posture angle detection
-- OLED status display and vibration feedback
-- Web dashboard for monitoring
-
-[**View repository →**](https://github.com/kathiravanr-17/REPO-NAME)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌬️ Renewable Energy & Power Plant Simulation
-`MATLAB` `Simulink` `Power Systems`
-
-Simulation studies of wind generation and gas turbine plant performance.
-
-- Grid-connected wind generator model
-- Brayton-cycle gas turbine analysis
-- Power and efficiency analysis
-
-[**View repository →**](https://github.com/kathiravanr-17/REPO-NAME)
-
-</td>
+<td width="50%"><a href="https://github.com/kathiravanr-17/REPO-NAME"><img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/project-05.svg" width="100%" alt="Smart Posture Monitor"/></a></td>
+<td width="50%"><a href="https://github.com/kathiravanr-17/REPO-NAME"><img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/project-06.svg" width="100%" alt="Renewable Energy and Power Plant Simulation"/></a></td>
 </tr>
 </table>
 
@@ -163,9 +83,7 @@ Simulation studies of wind generation and gas turbine plant performance.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4F46E5,06B6D4&height=2" width="100%" alt=""/>
-
-<h2 align="center">💼 Experience & Learning</h2>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/t-experience.svg" width="100%" alt="Experience and learning"/>
 
 <table>
 <tr>
@@ -193,9 +111,7 @@ Simulation studies of wind generation and gas turbine plant performance.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4F46E5,06B6D4&height=2" width="100%" alt=""/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/t-analytics.svg" width="100%" alt="GitHub analytics"/>
 
 <div align="center">
 
@@ -210,23 +126,17 @@ Simulation studies of wind generation and gas turbine plant performance.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4F46E5,06B6D4&height=2" width="100%" alt=""/>
-
-<h2 align="center">🏆 Achievements</h2>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/t-achievements.svg" width="100%" alt="Achievements"/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇_1st_Prize-IDEA_FORGE'2K26_·_IoT_Hardware_Showcase-7C3AED?style=for-the-badge&labelColor=09090F" alt="1st Prize, Idea Forge 2K26"/>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/achievement.svg" width="100%" alt="1st Prize, Idea Forge 2K26 IoT Hardware Showcase, March 2026"/>
 
-<sub>March 2026 · SIMATS</sub>
-
-Also: attendee at *"Inside the Machines"*, Caterpillar Inc. (Mar 2026) · active in technical interdepartmental events
+<sub>Also: attendee at <i>"Inside the Machines"</i>, Caterpillar Inc. (Mar 2026) · active in technical interdepartmental events</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4F46E5,06B6D4&height=2" width="100%" alt=""/>
-
-<h2 align="center">🎯 Current Focus</h2>
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/t-focus.svg" width="100%" alt="Current focus"/>
 
 - 🔌 Practical ESP32 and IoT development
 - 💻 Embedded C/C++ and Python
@@ -234,9 +144,9 @@ Also: attendee at *"Inside the Machines"*, Caterpillar Inc. (Mar 2026) · active
 - ⚙️ Electrical automation and motor-control applications
 - 📝 Building and documenting engineering projects on GitHub
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/kathiravanr-17/kathiravanr-17/main/assets/t-connect.svg" width="100%" alt="Let's connect"/>
 
-<h2>🤝 Let's Connect</h2>
+<div align="center">
 
 <a href="https://github.com/kathiravanr-17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://kathiravan-r-17.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -246,6 +156,6 @@ Also: attendee at *"Inside the Machines"*, Caterpillar Inc. (Mar 2026) · active
 
 *Build with purpose. Learn without limits. Engineer the future.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:09090F&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:09090F&height=100&section=footer&animation=fadeIn" width="100%" alt=""/>
 
 </div>
